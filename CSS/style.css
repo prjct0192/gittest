@@ -1,3 +1,9 @@
 body{
     background-color: darkturquoise;
 }
+p{
+    color: paleturquoise;
+}
+h2{
+    font-size: 50px;
+}

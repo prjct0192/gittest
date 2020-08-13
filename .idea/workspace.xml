@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9eb20440-5ea1-4796-a002-ffbd9e2ece74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +70,60 @@
       <option name="presentableId" value="Default" />
       <updated>1597316494510</updated>
       <workItem from="1597316495556" duration="1535000" />
+      <workItem from="1597320101898" duration="605000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="828" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597320245330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597320245330" />
+    <state width="192" height="442" key="Diff.GoToChangePopup" timestamp="1597320565623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="192" height="442" key="Diff.GoToChangePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1597320565623" />
+    <state x="1194" y="106" width="633" height="840" key="DiffContextDialog" timestamp="1597320712380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1194" y="106" width="633" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597320712380" />
     <state x="1227" y="267" key="FileChooserDialogImpl" timestamp="1597316890804">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1227" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597316890804" />
+    <state x="1368" y="228" key="RollbackChangesDialog" timestamp="1597320146455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1368" y="228" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597320146455" />
     <state x="922" y="171" key="SettingsEditor" timestamp="1597316868706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
